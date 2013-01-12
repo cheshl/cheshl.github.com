@@ -4,10 +4,10 @@ layout: page
 comments: yes
 ---
   
-卢克进, 08年毕业于南京理工大学计算机学院.      
+cheshulin, 13年毕业于西电通院.      
 熟练使用常见的计算机语言.      
-目前从事Mac,iOS开发相关工作.      
+目前从事Windows,Android开发相关工作.      
 
-个人邮箱:kejinlu@gmail.com      
-新浪微博: [http://weibo.com/kejinlu](http://weibo.com/kejinlu)      
-github : [https://github.com/kejinlu](https://github.com/kejinlu)      
+个人邮箱:cheshulin2007@163.com      
+新浪微博: [http://weibo.com/123153806(http://weibo.com/123153806)      
+github : [https://github.com/cheshl](https://github.com/cheshl)      
