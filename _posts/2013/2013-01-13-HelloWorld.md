@@ -14,4 +14,3 @@ tags:
 {% hightlight bash%}
 Hello World
 {% endhighlight %}
-
