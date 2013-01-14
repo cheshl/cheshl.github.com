@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Hello World
+title: 浅谈Gitosis实现原理
 categories:
 - Programming
 tags:
-- first
+- Mac
+- git
+- gitosis
+- Linux
+- Python
 ---
 <br>
 #标题1，一个#号
