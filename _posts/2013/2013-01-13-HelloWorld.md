@@ -24,7 +24,7 @@ tags:
 然后使用git push 将代码上传到服务器的代码仓库。<br>
 也就是：<br>
 {% highlight bash %}
-	git add .
+		git add .
 	git commit -am "content"
 	git push origin master
 {% endhighlight %}
