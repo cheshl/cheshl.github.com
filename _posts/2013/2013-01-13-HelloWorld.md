@@ -25,10 +25,11 @@ tags:
 本地中写的Git需要提交的时候首先需要 git add 。 将修改文件提交，git commit -am “内容”，将修改的文件提交到本地的.git仓库。
 然后使用git push 将代码上传到服务器的代码仓库。<br>
 也就是：<br>
+
 {% highlight bash %}
-	   git add .
-	git commit -am "content"
-	git push origin master
+git add .
+git commit -am "content"
+git push origin master
 {% endhighlight %}
 
 <br>
@@ -36,6 +37,7 @@ tags:
 >1.	查看邮件或者通过其它方式查看一般开发者的提交状态。<br>
 >3.	打上补丁，解决冲突（可以自己解决，也可以要求开发者之间解决以后再重新提交，如果是开源项目，还要决定哪些补丁有用，哪些不用）。<br>
 >1.	向公共服务器提交结果，然后通知所有开发人员。<br>
+
 *****************
-	**ps：** `git pull`和`git clone`区别是第一次使用`git clone`可以将整个代码复制到本地，以后每次只需要“git pull”将代码拉下来就行了。还有就是需要注意git commit 如果没有参数a则有可能在删除的时候不能将代码库中的有些文件删除。
+**ps：** `git pull`和`git clone`区别是第一次使用`git clone`可以将整个代码复制到本地，以后每次只需要“git pull”将代码拉下来就行了。还有就是需要注意git commit 如果没有参数a则有可能在删除的时候不能将代码库中的有些文件删除。
 <br>
